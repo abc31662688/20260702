@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'JasonHandwriting1';
+   font-display: swap;
+   src: url('JasonHandwriting1/font.ttf');
+}
+@font-face {
+   font-family: 'JasonHandwriting3p';
+   font-display: swap;
+   src: url('JasonHandwriting3p/font.ttf');
+}
